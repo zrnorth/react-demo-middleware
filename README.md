@@ -1,1 +1,1 @@
-Learning how to write react tests
+Learning some more advanced react topics: testing, middleware, auth, etc.
